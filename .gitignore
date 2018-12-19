@@ -18,3 +18,8 @@ composer.lock
 
 # for netbeans
 nbproject
+
+# for wht
+/config/app.php
+/config/database.php
+

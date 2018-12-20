@@ -20,6 +20,8 @@ composer.lock
 nbproject
 
 # for wht
-/config/app.php
-/config/database.php
+config/app.php
+config/database.php
+plugins
+themes
 
